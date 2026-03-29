@@ -87,7 +87,7 @@ pip install pygame
 3. 執行遊戲：
 
 ```bash
-python main.py
+python 寶可夢大屠殺.py
 ```
 
 > ※ 請確認所有資源檔案與程式位於同一目錄
